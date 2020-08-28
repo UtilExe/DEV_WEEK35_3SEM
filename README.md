@@ -26,6 +26,12 @@ I have implemented a solution to all of the tasks.
 I however had some concerns regarding testing GSON String facade methods.
 I left an example of how I attempted to handle the testing, to demonstrate, but commented it out, because it wasn't working.
 
+I also deployed the solutions to my Droplet, which can be found here:
+http://161.35.24.227:8081/jpa_rest_startup-1.0/
+
+As an API example:
+http://161.35.24.227:8081/jpa_rest_startup-1.0/api/employees/id/1
+
 ## Friday:
 For Friday, the following tasks are implemeneted:
 https://docs.google.com/document/d/1HdHiORGNyteRpn7MoOixowxL10LQuUHt9XxAKtL9r0o/edit
